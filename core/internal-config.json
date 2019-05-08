@@ -1,7 +1,7 @@
 {
     "dbConnectionString": "nedb://guilds-data",
     "neDBCompactionSchedule": "0 0 * * * *",
-    "website": "https://github.com/Kirbae00/discord-activity-monitor/",
+    "website": "https://Searching for the inactives",
     "discordInvite": "https://discord.gg/zvtGfN4",
     "debugIgnores": [
         "[ws] [connection] Sending a heartbeat",
