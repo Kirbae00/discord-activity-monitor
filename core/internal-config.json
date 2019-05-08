@@ -1,8 +1,8 @@
 {
     "dbConnectionString": "nedb://guilds-data",
     "neDBCompactionSchedule": "0 0 * * * *",
-    "website": "https://benji7425.github.io",
-    "discordInvite": "https://discord.gg/SSkbwSJ",
+    "website": "https://github.com/Kirbae00/discord-activity-monitor/",
+    "discordInvite": "https://discord.gg/zvtGfN4",
     "debugIgnores": [
         "[ws] [connection] Sending a heartbeat",
         "[ws] [connection] Heartbeat acknowledged"
